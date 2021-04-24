@@ -2,4 +2,4 @@
 Este es un proyecto grupal de semestre.
 iNTEGRANTES 
 
-- Gabriel Montiel Chamorro
+- Gabriel Montiel Chamorro ( Creador)
