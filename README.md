@@ -4,3 +4,4 @@ iNTEGRANTES
 
 - Gabriel Montiel Chamorro ( Creador)
 - Maira Alejandra Morales Ramos (colaborador)
+- Aldair Delgado Sanchez (Colaborador)
